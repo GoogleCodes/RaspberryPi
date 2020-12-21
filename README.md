@@ -10,7 +10,7 @@
 新建文件：sudo touch xxx.后缀
 查看内网ip：arp -a
 
-## 配置固定ip地址：sudo vi /etc/dhcpcd.conf
+### 配置固定ip地址：sudo vi /etc/dhcpcd.conf
 1. interface wlan0 
 2. static ip_address=192.168.1.106/24 
 3. static routers=192.168.1.1 
