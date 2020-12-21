@@ -16,12 +16,12 @@
 3. static routers=192.168.1.1 
 4. static domian_name_servers=114.114.114.114 114.114.114.115
 
-重启系统：reboot
-查看ip地址：ifconfg
-安装软件：sudo apt-get install xxxxxx
-卸载node：sudo apt-get purge --auto-remove nodejs
-ftp配置：HYPERLINK https://www.ituring.com.cn/article/273666 https://www.ituring.com.cn/article/273666 
-启动ftp：sudo /etc/init.d/vsftpd restart
+> 重启系统：reboot
+> 查看ip地址：ifconfg
+> 安装软件：sudo apt-get install xxxxxx
+> 卸载node：sudo apt-get purge --auto-remove nodejs
+> ftp配置：HYPERLINK https://www.ituring.com.cn/article/273666 https://www.ituring.com.cn/article/273666 
+> 启动ftp：sudo /etc/init.d/vsftpd restart
 
 安装 node.js
 nvm 安装
