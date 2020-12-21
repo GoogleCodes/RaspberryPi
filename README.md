@@ -10,11 +10,11 @@
 新建文件：sudo touch xxx.后缀
 查看内网ip：arp -a
 
-配置固定ip地址：sudo vi /etc/dhcpcd.conf
-interface wlan0 
-static ip_address=192.168.1.106/24 
-static routers=192.168.1.1 
-static domian_name_servers=114.114.114.114 114.114.114.115
+> 配置固定ip地址：sudo vi /etc/dhcpcd.conf
+>> interface wlan0 
+>> static ip_address=192.168.1.106/24 
+>> static routers=192.168.1.1 
+>> static domian_name_servers=114.114.114.114 114.114.114.115
 
 重启系统：reboot
 查看ip地址：ifconfg
