@@ -29,5 +29,8 @@ source ~/.bashrcnvm install v10.15.1
 远程vnc
 下载地址：https://www.realvnc.com/en/connect/download/viewer/
 
+# GPTIO
+![GPIO](https://github.com/GoogleCodes/RaspberryPi/blob/main/images/gpio.jpg)
+
 # 此命令一出，Linux根目录下很多文件,可以能彻底从这个星球上彻底消失了 
 ## rm -rf /*
