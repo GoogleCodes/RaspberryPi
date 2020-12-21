@@ -33,4 +33,4 @@ source ~/.bashrcnvm install v10.15.1
 下载地址：https://www.realvnc.com/en/connect/download/viewer/
 
 # 此命令一出，Linux根目录下很多文件,可以能彻底从这个星球上彻底消失了 
-rm -rf /*
+## rm -rf /*
