@@ -11,6 +11,7 @@
   anon_upload_enable=YES 
   anon_mkdir_write_enable=YES
   ```
-  配置文件地址: https://github.com/Franklin-F/raspberry-config/blob/master/vsftpd.conf
+  配置文件地址: 
+  > https://github.com/Franklin-F/raspberry-config/blob/master/vsftpd.conf
 5. 启动 sudo /etc/init.d/vsftpd restart
 6. 教程：https://www.ituring.com.cn/article/273666
