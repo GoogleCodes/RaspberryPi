@@ -1,14 +1,14 @@
 # RaspberryPi
 
 ## 树莓派SSH命令
-  最高权限：sudo su
-配置wiifi：sudo nano /etc/wpa_supplicant/wpa_supplicant.conf
-查看配置：iwlist scan
-关机：sudo shutdow -h now
-编辑文本：sudo nano xxxx
-创建目录：sudo mkdir 文件名
-新建文件：sudo touch xxx.后缀
-查看内网ip：arp -a
+1.最高权限：sudo su
+2.配置wiifi：sudo nano /etc/wpa_supplicant/wpa_supplicant.conf
+3.查看配置：iwlist scan
+4.关机：sudo shutdow -h now
+5.编辑文本：sudo nano xxxx
+6.创建目录：sudo mkdir 文件名
+7.新建文件：sudo touch xxx.后缀
+8.查看内网ip：arp -a
 
 ### 配置固定ip地址：sudo vi /etc/dhcpcd.conf
 1. interface wlan0 
