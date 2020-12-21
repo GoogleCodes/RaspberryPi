@@ -19,9 +19,6 @@
 6. 查看ip地址：ifconfg
 7. 安装软件：sudo apt-get install xxxxxx
 8. 卸载node：sudo apt-get purge --auto-remove nodejs
-9. ftp配置：HYPERLINK https://www.ituring.com.cn/article/273666 https://www.ituring.com.cn/article/273666 
-10. 启动ftp：sudo /etc/init.d/vsftpd restart
-
 ### 安装 node.js
 1. nvm 安装
 2. curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash
