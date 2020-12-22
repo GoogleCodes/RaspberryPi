@@ -34,3 +34,7 @@ source ~/.bashrcnvm install v10.15.1
 
 # 此命令一出，Linux根目录下很多文件,可以能彻底从这个星球上彻底消失了 
 ## rm -rf /*
+
+### linux 查看进程的4种方式
+> ![链接](https://juejin.cn/post/6844903709030252552);
+
