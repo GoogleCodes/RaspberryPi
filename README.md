@@ -37,4 +37,3 @@ source ~/.bashrcnvm install v10.15.1
 
 ### linux 查看进程的4种方式
 > https://juejin.cn/post/6844903709030252552
-
