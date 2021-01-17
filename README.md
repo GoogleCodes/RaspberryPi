@@ -37,3 +37,12 @@ source ~/.bashrcnvm install v10.15.1
 
 ### linux 查看进程的4种方式
 > https://juejin.cn/post/6844903709030252552
+
+## 基于树莓派实现播放MP3音乐
+
+1. 安装MPlayer, MPlayer 是一款开源的多媒体播放器,树莓派上安装mplayer即可播放音乐或者其他音频信息。
+> sudo apt-get update
+> sudo apt-get install mplayer
+
+2. 播放音乐
+> sudo 目录 mplayer shero.mp3
