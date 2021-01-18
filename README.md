@@ -46,3 +46,8 @@ source ~/.bashrcnvm install v10.15.1
 
 2. 播放音乐
 > sudo 目录 mplayer shero.mp3
+
+<details>
+<summary>Click to expand</summary>
+- test
+</details>
